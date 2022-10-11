@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Polish Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rolero4&label=Profile%20views&color=0e75b6&style=flat" alt="rolero4" /> </p>
 
 - 🌱 I’m currently learning **everything I need to become a programmer.**
 
@@ -18,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rolero4&show_icons=true&locale=en&layout=compact" alt="rolero4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rolero4&show_icons=true&locale=en" alt="rolero4" /></p>
