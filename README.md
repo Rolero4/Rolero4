@@ -1,8 +1,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
 
 
-# 💫 About Me:
+<h1 align="center"> 💫 About Me: </h1>
 
+<img src="Rollero.png" alt="Your Image" style="display: block; margin: 0 auto;">
 
 
 <h3 align="center">Computer Science student at the Silesian University of Technology | 4th Year 🎓<br><br></h3>
@@ -42,7 +43,9 @@ In the virtual realm, I'm an active member of Team Elder Blood, a tight-knit com
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 </p>
 
+<div align="center">
 
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
