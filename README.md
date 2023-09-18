@@ -44,7 +44,10 @@ In the virtual realm, I'm an active member of Team Elder Blood, a tight-knit com
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
+
+
 <div align="center">
+<h4>✍️ Random Dev Quote</h4>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
