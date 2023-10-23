@@ -11,8 +11,11 @@
 ⚽ Football Enthusiast   |   🎮 Gaming Aficionado   |   🎥 Film Industry Buff<br><br>
 🏆 Competitive Gwent Player     |     Team Elder Blood Member 🃏<br><br>
 </h4>
-Hello there! I'm a passionate Computer Science student in my final year at the Silesian University of Technology. Beyond code, you'll find me cheering for my favourite football team, diving into the latest gaming releases, and exploring the depths of the film industry.<br><br>
+Hello there! I'm a passionate Computer Science student in my final year at the Silesian University of Technology. Beyond code, you'll find me cheering for my favourite football team, diving into the latest gaming releases, and exploring the depths of the film industry.
+
 In the virtual realm, I'm an active member of Team Elder Blood, a tight-knit community of top-tier Gwent players from around the globe. With some competitive successes under my belt, I'm always eager to tackle new challenges in the world of Gwent. Let's connect and level up together! 🚀
+
+When I'm not immersed in tech or gaming, you'll catch me pounding the pavement, running around the world. Running isn't just a hobby for me; it's a passion that keeps me energized and focused. Let's lace up and hit the track together!
 
 
 
@@ -43,7 +46,6 @@ In the virtual realm, I'm an active member of Team Elder Blood, a tight-knit com
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
 
 
 <div align="center">
