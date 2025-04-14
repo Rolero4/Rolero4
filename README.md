@@ -1,60 +1,58 @@
-<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+<h2 align="center">Hi, I'm Bartosz Rolnik  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
+###
 
-<h1 align="center"> 💫 About Me: </h1>
+<img src="https://raw.githubusercontent.com/Rolero4/Rolero4/output/snake.svg" alt="Snake animation" />
 
-<img src="Rollero.png" alt="Your Image" style="display: block; margin: 0 auto;">
+###
 
+<h2 align="left">⚡ About me</h2>
+<p>🚀 I'm a frontend developer passionate about clean, elegant code and building intuitive user experiences. I'm always exploring new technologies — with a growing curiosity for the full-stack world.<br><br>💡 From writing maintainable components to experimenting with new patterns and tools, I love turning ideas into interactive, delightful experiences.<br><br>🎮 Beyond the Code:  I run marathons around the world 🌍, dive deep into gaming 🎮, and have a lifelong love for football ⚽️ (yes, the real football)<br><br>💬 Ask me anything, I will be more than happy to help 😃</p>
 
-<h3 align="center">Computer Science student at the Silesian University of Technology | 4th Year 🎓<br><br></h3>
-<h4 align="center">
-⚽ Football Enthusiast   |   🎮 Gaming Aficionado   |   🎥 Film Industry Buff<br><br>
-🏆 Competitive Gwent Player     |     Team Elder Blood Member 🃏<br><br>
-</h4>
-Hello there! I'm a passionate Computer Science student in my final year at the Silesian University of Technology. Beyond code, you'll find me cheering for my favourite football team, diving into the latest gaming releases, and exploring the depths of the film industry.
+<h2 align="left">🛠 Tech stack</h2>
 
-In the virtual realm, I'm an active member of Team Elder Blood, a tight-knit community of top-tier Gwent players from around the globe. With some competitive successes under my belt, I'm always eager to tackle new challenges in the world of Gwent. Let's connect and level up together! 🚀
+<p align="left">Languages</p>
 
-When I'm not immersed in tech or gaming, you'll catch me pounding the pavement, running around the world. Running isn't just a hobby for me; it's a passion that keeps me energized and focused. Let's lace up and hit the track together!
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/rollerko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[TEB] Rollerko#5633" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bartosz-rolnik-628805225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bartosz Rolnik" height="30" width="40" /></a>
-<a href="mailto:bartekrolnik2000@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Bartosz Rolnik" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
-</p>
-    
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
-</p>
-     
-<h3 align="left">Other Stuff:</h3>
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/adobe-xd-logo.png" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.firebase.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BaaS/firebase.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
-
-
-<div align="center">
-<h4>✍️ Random Dev Quote</h4>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="24" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="24" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
 </div>
 
+<p align="left">Frameworks, libraries & tools</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="24" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="24" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="24" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="24" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
+</div>
+
+###
+
+<p align="left">📫 Connect with me:</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/bartosz-rolnik/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="bartekrolnik2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/rolero._?igsh=ZWd3emc1NHltNG94&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
+</div>
