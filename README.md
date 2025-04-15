@@ -11,7 +11,7 @@
 
 <h2 align="left">🛠 Tech stack</h2>
 
-<p align="left">Languages</p>
+<h4 align="left"">Languages</h4>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
 </div>
 
-<p align="left">Frameworks, libraries & tools</p>
+<h4 align="left"">Frameworks, libraries & tools</h4>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="24" alt="angular logo"  />
@@ -35,20 +35,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
 </div>
 
-<p align="left">Exploring..</p>
+<h4 align="left"">Exploring..</h4>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="24" alt="nodejs logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="24" alt="express logo"  />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="24" alt="mongodb logo"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
 </div>
 
 ###
