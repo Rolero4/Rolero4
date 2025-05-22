@@ -52,9 +52,6 @@
 <h2 align="left">📫 Connect with me:</h2>
 
 <div align="left">
-  <a href="https://bartoszrolnik.pl" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=My%20Website&logo=google-chrome&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="website logo" />
-  </a>
   <a href="https://www.linkedin.com/in/bartosz-rolnik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
@@ -63,5 +60,8 @@
   </a>
   <a href="https://www.instagram.com/rolero._?igsh=ZWd3emc1NHltNG94&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
+  </a>
+  <a href="https://bartoszrolnik.pl" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=bartoszrolnik.pl&logo=google-chrome&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="website logo" />
   </a>
 </div>
